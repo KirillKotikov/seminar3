@@ -18,3 +18,9 @@ Enter next command for adding file into tracking
 
     git add file_name
 
+## Saving this stage in local repository
+
+    git commit -m "Your message"
+
+Message need for information about changes in this stage
+
