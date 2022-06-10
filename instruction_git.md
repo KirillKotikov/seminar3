@@ -11,3 +11,10 @@ Enter next command for create local repository
 Enter next command for geting status
 
     git status
+
+## Adding files for tracking
+
+Enter next command for adding file into tracking
+
+    git add file_name
+
