@@ -37,3 +37,14 @@ For hashes and names in one line:
     git checkout commits_hash
 
 comits_hash is may be first four number or branch name
+
+## Showing changes
+
+    git diff
+
+This will show the changes in the file
+
+If you want to compare another commits:
+
+    git diff first_commit_hash second_commit_hash
+    
