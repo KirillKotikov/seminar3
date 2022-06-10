@@ -24,3 +24,10 @@ Enter next command for adding file into tracking
 
 Message need for information about changes in this stage
 
+## Show history of commits
+
+    git log
+
+For hashes and names in one line:
+
+    git log --oneline
