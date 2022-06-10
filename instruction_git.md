@@ -31,3 +31,9 @@ Message need for information about changes in this stage
 For hashes and names in one line:
 
     git log --oneline
+
+## Traveling on history of commits
+
+    git checkout commits_hash
+
+comits_hash is may be first four number or branch name
