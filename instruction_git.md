@@ -63,3 +63,6 @@ For showing branches list:
 
 ### Create branch
 
+For create new branch:
+
+    git branch new_branch_name
