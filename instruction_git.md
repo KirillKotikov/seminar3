@@ -68,3 +68,7 @@ For create new branch:
     git branch new_branch_name
 
 ### Merging branches
+
+For merging:
+
+    git merge another_branch_name
