@@ -83,3 +83,7 @@ For deleting:
 
 ### Adding picture
 
+<<<<<<< HEAD
+=======
+You can add picture in your md file
+>>>>>>> picture_info
