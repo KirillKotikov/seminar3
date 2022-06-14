@@ -50,3 +50,7 @@ If you want to compare another commits:
 
     git diff first_commit_hash second_commit_hash
     
+
+## Branches
+
+### Branch list:
