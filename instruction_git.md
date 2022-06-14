@@ -75,6 +75,12 @@ For merging (IMPORTANT: You must be in branch, which you want changing!):
 
 ### Deleting branches
 
+After the merge, you need to delete the non-master branch.
+
 For deleting:
 
     git branch -d  deleting_branch_name
+
+### Adding picture
+
+You can add picture in your md file
