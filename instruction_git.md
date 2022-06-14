@@ -1,5 +1,7 @@
 # Instruction how to use Git
 
+![Git logo](Git-Logo-2Color.png)
+
 ## Creating repository
 
 Enter next command for create local repository
