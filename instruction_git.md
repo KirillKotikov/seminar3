@@ -74,3 +74,5 @@ For merging (IMPORTANT: You must be in branch, which you want changing!):
     git merge another_branch_name
 
 ### Deleting branches
+
+After the merge, you need to delete the non-master branch.
