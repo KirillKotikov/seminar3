@@ -69,6 +69,6 @@ For create new branch:
 
 ### Merging branches
 
-For merging:
+For merging (IMPORTANT: You must be in branch, which you want changing!):
 
     git merge another_branch_name
