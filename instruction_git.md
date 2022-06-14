@@ -55,4 +55,8 @@ If you want to compare another commits:
 
 ### Branch list:
 
+For showing branches list:
+
+    git branch
+
 ### Create branch
