@@ -53,6 +53,8 @@ If you want to compare another commits:
 
 ## Branches
 
+Branches are used in git for group work and separation of tasks.
+
 ### Branch list:
 
 For showing branches list:
@@ -60,3 +62,4 @@ For showing branches list:
     git branch
 
 ### Create branch
+
