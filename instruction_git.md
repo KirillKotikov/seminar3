@@ -56,3 +56,7 @@ If you want to compare another commits:
 ### Branch list:
 
 ### Create branch
+
+For create new branch:
+
+    git branch new_branch_name
