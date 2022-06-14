@@ -53,4 +53,4 @@ If you want to compare another commits:
 
 ## Branches
 
-### Branch list:
+Branches are used in git for group work and separation of tasks.
