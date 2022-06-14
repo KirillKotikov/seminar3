@@ -83,3 +83,4 @@ For deleting:
 
 ### Adding picture
 
+If picture path or url nit be found, message in [] will be visible.
