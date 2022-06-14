@@ -83,7 +83,8 @@ For deleting:
 
 ### Adding picture
 
-<<<<<<< HEAD
-=======
 You can add picture in your md file
->>>>>>> picture_info
+
+For adding picture:
+
+    ![message](path or url to picture)
