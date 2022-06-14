@@ -66,3 +66,5 @@ For showing branches list:
 For create new branch:
 
     git branch new_branch_name
+
+### Merging branches
