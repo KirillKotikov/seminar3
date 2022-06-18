@@ -90,3 +90,5 @@ For adding picture:
     ![message](path or url to picture)
     
 If picture path or url nit be found, message in [] will be visible.
+
+### Work with remote repositories
